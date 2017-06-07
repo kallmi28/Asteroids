@@ -1,0 +1,5 @@
+<map id="MovingObject" name="MovingObject">
+<area shape="rect" id="node2" href="$classAsteroid.html" title="{Asteroid\n|# mSpeedRotation\l# mSize\l|+ Asteroid()\l+ ~Asteroid()\l+ move()\l+ makePolygonVertices()\l+ split()\l+ getScore()\l}" alt="" coords="5,365,175,531"/>
+<area shape="rect" id="node3" href="$classPlayer.html" title="{Player\n|# mMaxSpeed\l# mXResidue\l# mYResidue\l# mSlowTick\l|+ Player()\l+ ~Player()\l+ move()\l+ changeAngle()\l+ makePolygonVertices()\l+ shoot()\l}" alt="" coords="199,351,368,545"/>
+<area shape="rect" id="node4" href="$classShot.html" title="{Shot\n|&#45; mTick\l|+ Shot()\l+ ~Shot()\l+ move()\l+ makePolygonVertices()\l+ getShotTick()\l}" alt="" coords="392,380,561,516"/>
+</map>

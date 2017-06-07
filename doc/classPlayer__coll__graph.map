@@ -1,0 +1,5 @@
+<map id="Player" name="Player">
+<area shape="rect" id="node2" href="$classMovingObject.html" title="{MovingObject\n|# mTexture\l# mX\l# mY\l# mWidth\l# mHeight\l# mRotation\l# mIdentifier\l|+ MovingObject()\l+ ~MovingObject()\l+ move()\l+ render()\l+ loadTexture()\l+ free()\l+ makePolygonVertices()\l+ getHitbox()\l}" alt="" coords="5,608,175,876"/>
+<area shape="rect" id="node3" href="$classPolygon.html" title="{Polygon\n|# mNumOfVertices\l# mCentre\l|+ Polygon()\l+ ~Polygon()\l+ drawPolygon()\l+ rotate()\l+ movePolygon()\l+ getEdges()\l+ getVertices()\l+ getNumOfVertices()\l+ getCentre()\l}" alt="" coords="128,336,279,545"/>
+<area shape="rect" id="node4" href="$classVector.html" title="{Vector\n|&#45; axisX\l&#45; axisY\l|+ Vector()\l+ ~Vector()\l+ operator=()\l+ rotate()\l+ printVector()\l+ addVector()\l+ multiplyVector()\l+ getAbsolute()\l+ getAxisX()\l+ getAxisY()\l+ dotProduct()\l+ normalize()\l}" alt="" coords="27,5,153,259"/>
+</map>
