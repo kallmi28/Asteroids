@@ -1,4 +1,0 @@
-<map id="Upgrade" name="Upgrade">
-<area shape="rect" id="node2" href="$classPolygon.html" title="{Polygon\n|# mNumOfVertices\l# mCentre\l|+ Polygon()\l+ ~Polygon()\l+ drawPolygon()\l+ rotate()\l+ movePolygon()\l+ getEdges()\l+ getVertices()\l+ getNumOfVertices()\l+ getCentre()\l}" alt="" coords="15,336,165,545"/>
-<area shape="rect" id="node3" href="$classVector.html" title="{Vector\n|&#45; axisX\l&#45; axisY\l|+ Vector()\l+ ~Vector()\l+ operator=()\l+ rotate()\l+ printVector()\l+ addVector()\l+ multiplyVector()\l+ getAbsolute()\l+ getAxisX()\l+ getAxisY()\l+ dotProduct()\l+ normalize()\l}" alt="" coords="27,5,153,259"/>
-</map>

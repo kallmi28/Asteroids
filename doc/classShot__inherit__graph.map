@@ -1,3 +1,0 @@
-<map id="Shot" name="Shot">
-<area shape="rect" id="node2" href="$classMovingObject.html" title="{MovingObject\n|# mTexture\l# mX\l# mY\l# mWidth\l# mHeight\l# mHitbox\l# mCurrent\l# mRotation\l# mIdentifier\l|+ MovingObject()\l+ ~MovingObject()\l+ move()\l+ render()\l+ loadTexture()\l+ free()\l+ makePolygonVertices()\l+ getHitbox()\l}" alt="" coords="5,5,175,303"/>
-</map>
